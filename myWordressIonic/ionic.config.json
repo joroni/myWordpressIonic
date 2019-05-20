@@ -1,0 +1,12 @@
+{
+  "name": "myWordressIonic",
+  "integrations": {},
+  "type": "ionic1",
+  "watchPatterns": [
+    "scss/**/*",
+    "www/**/*",
+    "!www/lib/**/*",
+    "!www/**/*.map"
+  ],
+  "id": "5c7b19eb"
+}
